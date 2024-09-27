@@ -1,0 +1,6 @@
+Item_ID,Item_Name,Category,Stock_Quantity,Price
+1,Item A,Category 1,10,50.0
+2,Item B,Category 2,3,20.0
+3,Item C,Category 1,7,30.0
+4,Item D,Category 3,2,25.0
+5,Item E,Category 2,12,40.0
